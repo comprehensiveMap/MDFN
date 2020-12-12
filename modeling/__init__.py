@@ -1,0 +1,6 @@
+from .modeling_v1 import ElectraForMultipleChoicePlus
+from .modeling_v1 import RobertaForMultipleChoicePlus
+from .modeling_v1 import BertForMultipleChoicePlus
+from .modeling_baseline import ElectraForMultipleChoicePlus as Baseline
+from .modeling_baseline import BertForMultipleChoicePlus as BertBaseline
+from .modeling_baseline import RobertaForMultipleChoicePlus as RobertaBaseline
