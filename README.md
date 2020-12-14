@@ -35,11 +35,11 @@ google/electra-large-discriminator \
 ## Reference
 If you use this code please cite our paper:
 
-@article{liu2020filling,
+```
+@inproceedings{liu2021filling,
   title={Filling the Gap of Utterance-aware and Speaker-aware Representation for Multi-turn Dialogue},
-  author={Liu, Longxiang and Zhang, Zhuosheng and Zhao, Hai and Zhou, Xi and Zhou, Xiang},
-  journal={arXiv preprint arXiv:2009.06504},
-  year={2020}
+  author={Liu, Longxiang and Zhang, Zhuosheng and and Zhao, Hai and Zhou, Xi and Zhou, Xiang},
+  booktitle={The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)},
+  year={2021}
 }
-
-
+```
